@@ -1,0 +1,14 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\bin\Debug\net9.0\dice-game.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\bin\Debug\net9.0\dice-game.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\bin\Debug\net9.0\dice-game.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\bin\Debug\net9.0\dice-game.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\bin\Debug\net9.0\dice-game.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\obj\Debug\net9.0\dice-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\obj\Debug\net9.0\dice-game.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\obj\Debug\net9.0\dice-game.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\obj\Debug\net9.0\dice-game.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\obj\Debug\net9.0\dice-game.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\obj\Debug\net9.0\refint\dice-game.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\obj\Debug\net9.0\dice-game.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\obj\Debug\net9.0\dice-game.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\dice-game\obj\Debug\net9.0\ref\dice-game.dll

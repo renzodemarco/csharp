@@ -1,0 +1,14 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\bin\Debug\net9.0\subscription.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\bin\Debug\net9.0\subscription.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\bin\Debug\net9.0\subscription.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\bin\Debug\net9.0\subscription.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\bin\Debug\net9.0\subscription.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\obj\Debug\net9.0\subscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\obj\Debug\net9.0\subscription.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\obj\Debug\net9.0\subscription.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\obj\Debug\net9.0\subscription.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\obj\Debug\net9.0\subscription.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\obj\Debug\net9.0\refint\subscription.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\obj\Debug\net9.0\subscription.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\obj\Debug\net9.0\subscription.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\01-conditionals\subscription\obj\Debug\net9.0\ref\subscription.dll

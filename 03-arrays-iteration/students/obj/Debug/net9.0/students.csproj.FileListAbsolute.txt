@@ -1,0 +1,14 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\obj\Debug\net9.0\students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\obj\Debug\net9.0\students.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\obj\Debug\net9.0\students.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\obj\Debug\net9.0\students.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\bin\Debug\net9.0\students.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\bin\Debug\net9.0\students.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\bin\Debug\net9.0\students.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\bin\Debug\net9.0\students.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\bin\Debug\net9.0\students.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\obj\Debug\net9.0\students.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\obj\Debug\net9.0\refint\students.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\obj\Debug\net9.0\students.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\obj\Debug\net9.0\students.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\03-arrays-iteration\students\obj\Debug\net9.0\ref\students.dll

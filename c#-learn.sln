@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-conditionals", "01-conditionals", "{847EE368-5447-ACC0-0B74-CD16ACBEC7AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dice-game", "01-conditionals\dice-game\dice-game.csproj", "{571A1513-1373-2308-F045-88C822C100B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "subscription", "01-conditionals\subscription\subscription.csproj", "{D4BC0A81-D7D2-5572-3504-48D2F04056D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{571A1513-1373-2308-F045-88C822C100B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571A1513-1373-2308-F045-88C822C100B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571A1513-1373-2308-F045-88C822C100B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571A1513-1373-2308-F045-88C822C100B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BC0A81-D7D2-5572-3504-48D2F04056D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BC0A81-D7D2-5572-3504-48D2F04056D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BC0A81-D7D2-5572-3504-48D2F04056D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BC0A81-D7D2-5572-3504-48D2F04056D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{571A1513-1373-2308-F045-88C822C100B5} = {847EE368-5447-ACC0-0B74-CD16ACBEC7AA}
+		{D4BC0A81-D7D2-5572-3504-48D2F04056D4} = {847EE368-5447-ACC0-0B74-CD16ACBEC7AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B3B52D-ECE3-4E2E-8AF4-59C3BD6D6204}
+	EndGlobalSection
+EndGlobal
