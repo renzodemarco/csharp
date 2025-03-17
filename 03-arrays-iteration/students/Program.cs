@@ -1,7 +1,7 @@
 ﻿using System;
 
 // initialize variables - graded assignments 
-int currentAssignments = 5;
+int examAssignments = 5;
 
 string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
 int[] studentScores = new int[10];
@@ -33,17 +33,61 @@ foreach (string name in studentNames)
 
   decimal currentStudentGrade = 0;
 
+  int gradedAssignments = 0;
+
   foreach (int score in studentScores)
   {
-    sumAssignmentScores += score;
+    gradedAssignments++;
+
+    if (gradedAssignments <= examAssignments)
+      sumAssignmentScores += score;
+
+    else 
+      sumAssignmentScores += score / 10;
   }
 
-  currentStudentGrade = (decimal)sumAssignmentScores / currentAssignments;
+  currentStudentGrade = (decimal)sumAssignmentScores / examAssignments;
 
-  Console.WriteLine($"{currentStudent}:\t\t" + currentStudentGrade + "\tA-");
+  string currentStudentLetterGrade = "";
+
+  if (currentStudentGrade >= 97)
+    currentStudentLetterGrade = "A+";
+
+  else if (currentStudentGrade >= 93)
+    currentStudentLetterGrade = "A";
+
+  else if (currentStudentGrade >= 90)
+    currentStudentLetterGrade = "A-";
+
+  else if (currentStudentGrade >= 87)
+    currentStudentLetterGrade = "B+";
+
+  else if (currentStudentGrade >= 83)
+    currentStudentLetterGrade = "B";
+
+  else if (currentStudentGrade >= 80)
+    currentStudentLetterGrade = "B-";
+
+  else if (currentStudentGrade >= 77)
+    currentStudentLetterGrade = "C+";
+
+  else if (currentStudentGrade >= 73)
+    currentStudentLetterGrade = "C";
+
+  else if (currentStudentGrade >= 70)
+    currentStudentLetterGrade = "C-";
+
+  else if (currentStudentGrade >= 67)
+    currentStudentLetterGrade = "D+";
+
+  else if (currentStudentGrade >= 63)
+    currentStudentLetterGrade = "D";
+
+  else if (currentStudentGrade >= 60)
+    currentStudentLetterGrade = "D-";
+
+  Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
 }
-
-
 
 
 Console.WriteLine("Press the Enter key to continue");
