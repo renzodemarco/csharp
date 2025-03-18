@@ -1,0 +1,15 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\bin\Debug\net9.0\console.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\bin\Debug\net9.0\console.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\bin\Debug\net9.0\console.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\bin\Debug\net9.0\console.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\bin\Debug\net9.0\console.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\obj\Debug\net9.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\obj\Debug\net9.0\console.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\obj\Debug\net9.0\console.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\obj\Debug\net9.0\console.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\obj\Debug\net9.0\console.sourcelink.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\obj\Debug\net9.0\console.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\obj\Debug\net9.0\refint\console.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\obj\Debug\net9.0\console.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\obj\Debug\net9.0\console.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\console\obj\Debug\net9.0\ref\console.dll
