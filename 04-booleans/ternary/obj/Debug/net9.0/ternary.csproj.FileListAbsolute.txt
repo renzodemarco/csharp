@@ -1,0 +1,15 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\bin\Debug\net9.0\ternary.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\bin\Debug\net9.0\ternary.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\bin\Debug\net9.0\ternary.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\bin\Debug\net9.0\ternary.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\bin\Debug\net9.0\ternary.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\obj\Debug\net9.0\ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\obj\Debug\net9.0\ternary.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\obj\Debug\net9.0\ternary.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\obj\Debug\net9.0\ternary.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\obj\Debug\net9.0\ternary.sourcelink.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\obj\Debug\net9.0\ternary.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\obj\Debug\net9.0\refint\ternary.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\obj\Debug\net9.0\ternary.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\obj\Debug\net9.0\ternary.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\ternary\obj\Debug\net9.0\ref\ternary.dll
