@@ -1,0 +1,15 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\obj\Debug\net9.0\head-tails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\obj\Debug\net9.0\head-tails.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\obj\Debug\net9.0\head-tails.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\obj\Debug\net9.0\head-tails.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\obj\Debug\net9.0\head-tails.sourcelink.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\bin\Debug\net9.0\head-tails.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\bin\Debug\net9.0\head-tails.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\bin\Debug\net9.0\head-tails.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\bin\Debug\net9.0\head-tails.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\bin\Debug\net9.0\head-tails.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\obj\Debug\net9.0\head-tails.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\obj\Debug\net9.0\refint\head-tails.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\obj\Debug\net9.0\head-tails.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\obj\Debug\net9.0\head-tails.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\04-booleans\head-tails\obj\Debug\net9.0\ref\head-tails.dll
