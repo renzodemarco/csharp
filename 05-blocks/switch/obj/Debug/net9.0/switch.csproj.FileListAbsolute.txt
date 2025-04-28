@@ -1,0 +1,15 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\bin\Debug\net9.0\switch.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\bin\Debug\net9.0\switch.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\bin\Debug\net9.0\switch.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\bin\Debug\net9.0\switch.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\bin\Debug\net9.0\switch.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\obj\Debug\net9.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\obj\Debug\net9.0\switch.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\obj\Debug\net9.0\switch.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\obj\Debug\net9.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\obj\Debug\net9.0\switch.sourcelink.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\obj\Debug\net9.0\switch.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\obj\Debug\net9.0\refint\switch.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\obj\Debug\net9.0\switch.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\obj\Debug\net9.0\switch.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\05-blocks\switch\obj\Debug\net9.0\ref\switch.dll
