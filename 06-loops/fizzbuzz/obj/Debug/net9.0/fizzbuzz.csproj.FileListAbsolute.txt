@@ -1,0 +1,15 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\obj\Debug\net9.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\obj\Debug\net9.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\obj\Debug\net9.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\obj\Debug\net9.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\obj\Debug\net9.0\fizzbuzz.sourcelink.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\bin\Debug\net9.0\fizzbuzz.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\bin\Debug\net9.0\fizzbuzz.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\bin\Debug\net9.0\fizzbuzz.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\bin\Debug\net9.0\fizzbuzz.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\bin\Debug\net9.0\fizzbuzz.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\obj\Debug\net9.0\fizzbuzz.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\obj\Debug\net9.0\refint\fizzbuzz.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\obj\Debug\net9.0\fizzbuzz.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\obj\Debug\net9.0\fizzbuzz.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\fizzbuzz\obj\Debug\net9.0\ref\fizzbuzz.dll
