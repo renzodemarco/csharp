@@ -1,0 +1,15 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\bin\Debug\net9.0\names.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\bin\Debug\net9.0\names.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\bin\Debug\net9.0\names.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\bin\Debug\net9.0\names.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\bin\Debug\net9.0\names.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\obj\Debug\net9.0\names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\obj\Debug\net9.0\names.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\obj\Debug\net9.0\names.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\obj\Debug\net9.0\names.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\obj\Debug\net9.0\names.sourcelink.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\obj\Debug\net9.0\names.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\obj\Debug\net9.0\refint\names.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\obj\Debug\net9.0\names.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\obj\Debug\net9.0\names.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\names\obj\Debug\net9.0\ref\names.dll
