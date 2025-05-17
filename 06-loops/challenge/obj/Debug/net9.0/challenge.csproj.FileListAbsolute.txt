@@ -1,0 +1,15 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\bin\Debug\net9.0\challenge.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\bin\Debug\net9.0\challenge.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\bin\Debug\net9.0\challenge.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\bin\Debug\net9.0\challenge.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\bin\Debug\net9.0\challenge.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\obj\Debug\net9.0\challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\obj\Debug\net9.0\challenge.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\obj\Debug\net9.0\challenge.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\obj\Debug\net9.0\challenge.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\obj\Debug\net9.0\challenge.sourcelink.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\obj\Debug\net9.0\challenge.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\obj\Debug\net9.0\refint\challenge.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\obj\Debug\net9.0\challenge.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\obj\Debug\net9.0\challenge.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\challenge\obj\Debug\net9.0\ref\challenge.dll

@@ -1,0 +1,15 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\bin\Debug\net9.0\do-while.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\bin\Debug\net9.0\do-while.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\bin\Debug\net9.0\do-while.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\bin\Debug\net9.0\do-while.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\bin\Debug\net9.0\do-while.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\obj\Debug\net9.0\do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\obj\Debug\net9.0\do-while.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\obj\Debug\net9.0\do-while.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\obj\Debug\net9.0\do-while.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\obj\Debug\net9.0\do-while.sourcelink.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\obj\Debug\net9.0\do-while.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\obj\Debug\net9.0\refint\do-while.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\obj\Debug\net9.0\do-while.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\obj\Debug\net9.0\do-while.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\do-while\obj\Debug\net9.0\ref\do-while.dll
