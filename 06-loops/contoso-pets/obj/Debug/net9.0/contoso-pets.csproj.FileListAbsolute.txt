@@ -1,0 +1,15 @@
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\bin\Debug\net9.0\contoso-pets.exe
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\bin\Debug\net9.0\contoso-pets.deps.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\bin\Debug\net9.0\contoso-pets.runtimeconfig.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\bin\Debug\net9.0\contoso-pets.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\bin\Debug\net9.0\contoso-pets.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\obj\Debug\net9.0\contoso-pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\obj\Debug\net9.0\contoso-pets.AssemblyInfoInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\obj\Debug\net9.0\contoso-pets.AssemblyInfo.cs
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\obj\Debug\net9.0\contoso-pets.csproj.CoreCompileInputs.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\obj\Debug\net9.0\contoso-pets.sourcelink.json
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\obj\Debug\net9.0\contoso-pets.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\obj\Debug\net9.0\refint\contoso-pets.dll
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\obj\Debug\net9.0\contoso-pets.pdb
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\obj\Debug\net9.0\contoso-pets.genruntimeconfig.cache
+C:\Users\Renzo.Demarco\Documents\Repositorios\c#-learn\06-loops\contoso-pets\obj\Debug\net9.0\ref\contoso-pets.dll
