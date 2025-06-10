@@ -69,7 +69,7 @@ for (int i = 0; i < maxPets; i++)
     ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
 }
 
-// display the top-level menu options
+// display the top-level menu options;
 
 Console.Clear();
 
